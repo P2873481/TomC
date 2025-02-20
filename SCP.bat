@@ -1,5 +1,7 @@
+set [/p] <message> = [<promptString>]
+
 git add .
 
-git commit -m "(placeholder text)"
+git commit -m message
 
 git push origin
